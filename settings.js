@@ -40,7 +40,7 @@ global.botnma = '💃 𝐐𝐮𝐞𝐞𝐧 𝐄𝐥𝐢𝐬𝐚 𝐁𝐨𝐭 �
 global.ownernma = '𝓓𝓪𝓻𝓴 𝓜𝓪𝓴𝓮𝓻' //ownernama,ownername
 global.packname = 'Queen Elisa Sticker' // Sticker package name 
 global.author = 'Dark Maker' // Sticker Autor name 
-global.sessionName = 'session'bUp0VzFOeGs=
+global.sessionName = 'bUp0VzFOeGs='
 global.prefa = ['#','!','/',''] 
 global.sp = '🔵'
 // Alive massage , ඔබේ බොගේ alive massage  එක මෙහි ඇති ` ` මෙම ලකුනු ඇතුලේ ඔබට අවශ්‍ය ඔනිම දෙයක් Type කරන්න.💃
